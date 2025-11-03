@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52f94e40-f6cd-44c3-83e9-85b0a7163330" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/HEAD" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/HEAD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/config" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/description" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/description" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/applypatch-msg.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/applypatch-msg.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/commit-msg.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/commit-msg.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/fsmonitor-watchman.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/fsmonitor-watchman.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/post-update.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/post-update.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/pre-applypatch.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/pre-applypatch.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/pre-commit.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/pre-commit.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/pre-merge-commit.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/pre-merge-commit.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/pre-push.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/pre-push.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/pre-rebase.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/pre-rebase.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/pre-receive.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/pre-receive.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/prepare-commit-msg.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/prepare-commit-msg.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/push-to-checkout.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/push-to-checkout.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/sendemail-validate.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/sendemail-validate.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/hooks/update.sample" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/hooks/update.sample" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/info/exclude" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/info/exclude" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/objects/pack/pack-9eb325c3c8eb2668e887c7ea0033f37030c30a75.idx" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/objects/pack/pack-9eb325c3c8eb2668e887c7ea0033f37030c30a75.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/objects/pack/pack-9eb325c3c8eb2668e887c7ea0033f37030c30a75.pack" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/objects/pack/pack-9eb325c3c8eb2668e887c7ea0033f37030c30a75.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/objects/pack/pack-9eb325c3c8eb2668e887c7ea0033f37030c30a75.rev" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/objects/pack/pack-9eb325c3c8eb2668e887c7ea0033f37030c30a75.rev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RAGApp.git/packed-refs" beforeDir="false" afterPath="$PROJECT_DIR$/RAGAPP/RAGApp.git/packed-refs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="34xLv4iLzdnQvdacfwzIfJnggZC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/RAGAPP" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52f94e40-f6cd-44c3-83e9-85b0a7163330" name="Changes" comment="" />
+      <created>1762150503986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762150503986</updated>
+      <workItem from="1762150505009" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
