@@ -20,7 +20,7 @@ func getDSN() (string, bool) {
 func Connect() {
 	dsn, ok := getDSN()
 	if !ok {
-		panic("DB_DSN environment variable is required")
+		panic("DB_DSN environment variable is required (format: user:pass@tcp(host:port)/database?charset=utf8mb4&parseTime=True&loc=Local)")
 	}
 
 	d, err := gorm.Open("mysql", dsn)
