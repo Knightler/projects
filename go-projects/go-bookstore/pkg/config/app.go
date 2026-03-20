@@ -9,18 +9,21 @@ import (
 
 var db *gorm.DB
 
-const defaultDSN = "root:@tcp(127.0.0.1:3306)/go_bookstore?charset=utf8mb4&parseTime=True&loc=Local"
-
-func getDSN() string {
+func getDSN() (string, bool) {
 	dsn := os.Getenv("DB_DSN")
 	if dsn == "" {
-		return defaultDSN
+		return "", false
 	}
-	return dsn
+	return dsn, true
 }
 
 func Connect() {
-	d, err := gorm.Open("mysql", getDSN())
+	dsn, ok := getDSN()
+	if !ok {
+		panic("DB_DSN environment variable is required")
+	}
+
+	d, err := gorm.Open("mysql", dsn)
 	if err != nil {
 		panic(err)
 	}
