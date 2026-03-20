@@ -1,14 +1,29 @@
 package config
 
 import (
+	"os"
+
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
 )
 
 var db *gorm.DB
 
+func getDSN() (string, bool) {
+	dsn := os.Getenv("DB_DSN")
+	if dsn == "" {
+		return "", false
+	}
+	return dsn, true
+}
+
 func Connect() {
-	d, err := gorm.Open("mysql", "root:@tcp(127.0.0.1:3306)/go_bookstore?charset=utf8mb4&parseTime=True&loc=Local")
+	dsn, ok := getDSN()
+	if !ok {
+		panic("DB_DSN environment variable is required (format: user:pass@tcp(host:port)/database?charset=utf8mb4&parseTime=True&loc=Local)")
+	}
+
+	d, err := gorm.Open("mysql", dsn)
 	if err != nil {
 		panic(err)
 	}
